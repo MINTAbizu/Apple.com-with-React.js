@@ -1,3 +1,4 @@
+import Footer from "./componet/Footer"
 import Header from "./componet/Header"
 import Iphone from "./componet/Iphone"
 import Iphone11pro from "./componet/iphone11pro"
@@ -20,6 +21,7 @@ function App() {
       <Iphone11pro/>
       <Leftwrapr/>
       <Rightside/>
+      <Footer/>
    
     </div>
     </>
