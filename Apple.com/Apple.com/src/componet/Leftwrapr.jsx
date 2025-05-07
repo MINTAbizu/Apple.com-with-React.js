@@ -1,11 +1,11 @@
 import React from 'react'
 import wcthseries from '../../src/componet/image/icons/watch-series5-logo.png'
-import applecard from '../../src/componet/image/icons/apple-card-logo.png'
+import applecard from '../../src/componet/image/icons/apple-tv-logo.png'
 
 function Leftwrapr() {
   return (
     <div>
-          <section class="threedsection container-fluid  m-2">
+          <section class="threedsection2 container-fluid  m-2">
 
 <div class="owterwrapr row">
     <div class="leftside col-sm-12 col-lg-5 m-2">

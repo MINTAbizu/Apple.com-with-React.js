@@ -315,9 +315,9 @@ body{
    
 	
 }
-.leftside3{
+.threedsection2{
     height: 280px;
-    background-image: url('../image/home/apple-tv-background.jpg');
+    /* background-image: url('../../src/componet/image/home/watch-series-5.jpg'); */
    /* width: 50%; */
    background-size: cover;
    background-position: center;
@@ -340,7 +340,7 @@ body{
 .leftside5{
 
     height: 280px;
-    background-image: url('../image/home/apple-tv-background.jpg');
+    background-image: url('../../src/componet/image/home/watch-series-5.jpg');
    /* width: 50%; */
    background-size: cover;
    background-position: center;
@@ -351,7 +351,7 @@ body{
 .rightside6{
 
     height: 280px;
-    background-image: url('../image/home/iphone11-pro-bg.jpg');
+    background-image: url('../../src/componet/image/home/apple-tv-background.jpg');
    /* width: 50%; */
    background-size: cover;
    background-position: center;
