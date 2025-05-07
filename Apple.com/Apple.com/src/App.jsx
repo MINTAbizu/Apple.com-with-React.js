@@ -5,6 +5,7 @@ import Iphone11pro from "./componet/iphone11pro"
 import Leftwrapr from "./componet/Leftwrapr"
 import Mac from "./componet/Mac"
 import Rightside from "./componet/Rightside"
+import Testiomonial from "./componet/Testiomonial"
 
 // import  style from './componet/style.css'
 
@@ -21,6 +22,7 @@ function App() {
       <Iphone11pro/>
       <Leftwrapr/>
       <Rightside/>
+      <Testiomonial/>
       <Footer/>
    
     </div>
