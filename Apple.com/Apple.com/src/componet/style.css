@@ -204,6 +204,65 @@ body{
     color: white;
     width: 100%;
 }
+.iphone11pro{
+    background-image: url('../../src//componet/image/home/iphone11-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    color: black;
+    width: 100%;
+
+
+}
+.Links div{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.lernmore{
+    /* margin-left: 400px;
+    margin-top: 200px; */
+}
+.lernmore li{
+    border: 5px ;
+    background-color: #0a17cc;
+    color: white;
+    border-radius: 30px;
+    width: 30%;
+    padding: 20px;
+}
+.lernmore li a{
+    font-size: 28px;
+    color: white;
+    font-weight: 800px;
+    list-style: none;
+    text-decoration: none;
+    
+    
+
+}
+.Buy li a{
+    font-size: 28px;
+    color: white;
+    font-weight: 800px;
+    list-style: none;
+    text-decoration: none;
+
+}
+.Buy{
+    padding-top: 50px;
+    margin-left: 800px;
+    margin-top: -100px;
+}
+.Buy li{
+    border: 5px ;
+    background-color: #0a17cc;
+    color: white;
+    border-radius: 30px;
+    width: 30%;
+    padding: 20px;
+}
 /* .bacimagepro{
     height: 190px;
     width: 100%;

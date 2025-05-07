@@ -20,6 +20,11 @@ function Mac() {
         <div className="descrption text-center">
             <h2>the best for the brightest</h2>
         </div>
+       
+        <div className="mackbookimage text-center">
+            <img src={mac} alt=""/>
+        </div>
+
         <div className="Links  text-center row">
             <div className="lernmore  col-lg-6 col-sm-6">
                 <li><a href="">LearnMore</a></li>
@@ -29,9 +34,6 @@ function Mac() {
                 <li><a href="">Buy</a></li>
 
             </div>
-        </div>
-        <div className="mackbookimage text-center">
-            <img src={mac} alt=""/>
         </div>
 
     </div>
