@@ -1,11 +1,12 @@
 import React from 'react'
-
+import '../componet/style.css'
+import mac from '../../src/componet/image/home/macbook-pro.jpg'
 function Mac() {
   return (
     <div>
-        <!-- home section -->
+        {/* <!-- home section --> */}
 
-<section className="mackbookpro container-fluid">
+<section className="macpro11 container-fluid">
     <div className="internalwrapr row">
         <div className="model text-center">
             <h1>16 inch model</h1>
@@ -30,7 +31,7 @@ function Mac() {
             </div>
         </div>
         <div className="mackbookimage text-center">
-            {/* <img src="./image/home/macbook-pro.jpg" alt=""> */}
+            <img src={mac} alt=""/>
         </div>
 
     </div>

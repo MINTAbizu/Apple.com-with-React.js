@@ -179,24 +179,29 @@ body{
 
 /* ...........................macpro11 */
 
-.mackbookpro{
+.macpro11{
     background-color: rgb(164, 161, 161);
     height: 800px;
     margin-top: -35px;
 }
 .model{
     padding: 20px;
+    margin-top: -300px;
+}
+.title{
+    margin-top: -30px;
 }
 .macpro11{
-    background-image: url('../componet/image/home/mac-laptop.jpg');
+    background-image: url('../../src/componet/image/home/macbook-pro.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 580px;
+    /* height: 280px; */
     color: white;
     width: 100%;
     text-align: center;
     padding-top: 20px;
+    margin-top: -30px;
 }
 
 .iphone{

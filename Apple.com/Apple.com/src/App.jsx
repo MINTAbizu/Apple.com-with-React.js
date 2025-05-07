@@ -1,4 +1,5 @@
 import Header from "./componet/Header"
+import Mac from "./componet/Mac"
 
 // import  style from './componet/style.css'
 
@@ -10,6 +11,7 @@ function App() {
     <>
     <div>
       <Header/>
+      <Mac/>
    
     </div>
     </>

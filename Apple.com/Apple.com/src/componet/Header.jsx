@@ -1,6 +1,5 @@
 import React from 'react'
-// import Logo from '../componet/image/icons/logo.png'
-
+import Logo from '../../src/componet/image/icons/logo.png';
 function Header() {
   return (
     <div>
@@ -11,8 +10,8 @@ function Header() {
                     <ul className='row'>
                         {/* logo */}
                         <div className="dropdown col-sm-12 col-lg-1 ">
-                            {/* <li><a href=""><img src={Logo} alt="" /></a></li> */}
-                            <li>logo</li>
+                            <li><a style={{backgroundColor:"black" ,width:'100%'}} href=""><img src={Logo} alt="" /></a></li>
+                           
                         </div>
 
                         <div className="dropdowncontent">
