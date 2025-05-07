@@ -191,26 +191,17 @@ body{
 .title{
     margin-top: -30px;
 }
-.macpro11{
-    background-image: url('../../src/componet/image/home/macbook-pro.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* height: 280px; */
-    color: white;
-    width: 100%;
-    text-align: center;
-    padding-top: 20px;
-    margin-top: -30px;
-}
 
+.mackbookimage{
+    height: 200px;
+}
 .iphone{
-    background-image: url('../image/home/iphone11-bg.jpg');
+    background-image: url('../../src//componet/image/home/iphone11-pro-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 580px;
-    color: black;
+    color: white;
     width: 100%;
 }
 /* .bacimagepro{
